@@ -10,8 +10,8 @@ setup(
     ],
     install_requires=[
         "cvxpy>=1.0",
-        "scipy>=1.4",
-        "pandas",
+        "scipy>=1.2.1",
+        "pandas==0.25.3",
         "qdldl>=0.1.1",
         "matplotlib"
     ],
