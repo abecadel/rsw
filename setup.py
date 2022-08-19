@@ -6,7 +6,7 @@ setup(
     author="Shane Barratt, Guillermo Angeris, Stephen Boyd",
     packages=find_packages(),
     setup_requires=[
-        "numpy>=1.15",
+        "numpy",
     ],
     install_requires=[
         "cvxpy>=1.0",
