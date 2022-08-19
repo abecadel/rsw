@@ -9,7 +9,7 @@ setup(
         "numpy",
     ],
     install_requires=[
-        "cvxpy>=1.0",
+        "cvxpy",
         "scipy>=1.2.1",
         "pandas==0.25.3",
         "qdldl>=0.1.1",
